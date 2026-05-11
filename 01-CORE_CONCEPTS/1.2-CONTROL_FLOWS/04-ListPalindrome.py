@@ -8,14 +8,3 @@ if (original_list == list):
         print("palindrome")
 else:
     print("non palindrome")
-
-    """
-    in string
-
-
-    s = "madam"
-
-    if s == s[::-1]
-     print("palindrome")
-    else
-    print("not palindrome")

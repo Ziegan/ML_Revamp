@@ -1,4 +1,4 @@
-n = int(input("enter the given no"))
+n = int(input("Enter Any Number:"))
 
 if n % 2 == 0:
 	print("even no")
