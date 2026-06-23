@@ -23,3 +23,4 @@ tree.plot_tree(
     decision_tree, feature_names=["Age", "Experience", "Rank", "Nationality"]
 )
 plt.show()
+print(decision_tree.predict([[50, 20, 9, 1]]))
